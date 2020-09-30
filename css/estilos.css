@@ -27,6 +27,26 @@ body {
     background: rgb(103, 103, 105);
     color: white;
    text-align: center;
-    margin: 0;
+    margin: 1;
     padding: 0.5em;
+}
+#footer h1{
+font-size-adjust: initial;
+color: palegreen;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#footerLeft{
+    text-align: left;
+    color: white;
+    font-style: italic;
+}
+#footerCenter{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+#footerRight{
+    text-align: right;
+    color: white;
+    font-style: italic;
 }
