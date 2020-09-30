@@ -52,3 +52,8 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: white;
     font-style: italic;
 }
+
+#cabecera #logo{
+    width: 30px;
+    vertical-align: middle;
+}
