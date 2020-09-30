@@ -30,3 +30,16 @@ body {
     margin: 0;
     padding: 0.5em;
 }
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
+}
+#post{
+    background: white;
+    padding: 1em;
+}
